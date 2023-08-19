@@ -109,7 +109,7 @@ class _MyHomePageState extends State<MyHomePage> {
               'You have pushed the button this many times:',
             ),
             Text(
-              'hy this is new',
+              'hy this is new application',
               style: Theme.of(context).textTheme.headlineMedium,
             ),
           ],
